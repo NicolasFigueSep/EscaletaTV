@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/Alumno Tarde/Documents/NetBeansProjects/EscaletaTV_NF/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Alumno Tarde/Documents/NetBeansProjects/EscaletaTV_NF/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'EscaletaTV_NF 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/Alumno Tarde/Documents/NetBeansProjects/EscaletaTV_NF/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'EscaletaTV_NF 1.0-SNAPSHOT API'
+escaletatv_nf
+'C:/Users/Alumno Tarde/Documents/NetBeansProjects/EscaletaTV_NF/src/main/java/escaletatv_nf/Documental.java'
+'C:/Users/Alumno Tarde/Documents/NetBeansProjects/EscaletaTV_NF/src/main/java/escaletatv_nf/Pelicula.java'
+'C:/Users/Alumno Tarde/Documents/NetBeansProjects/EscaletaTV_NF/src/main/java/escaletatv_nf/principalEscaleta.java'
+'C:/Users/Alumno Tarde/Documents/NetBeansProjects/EscaletaTV_NF/src/main/java/escaletatv_nf/Programa.java'
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\src\main\java = 1646752794293
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\allclasses-index.html = 1646934263706
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\allclasses.html = 1646934263734
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\allpackages-index.html = 1646934263710
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\constant-values.html = 1646934263565
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\deprecated-list.html = 1646934263722
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\element-list = 1646934263545
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\help-doc.html = 1646934263742
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\index-all.html = 1646934263702
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\index.html = 1646934263738
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\member-search-index.js = 1646934263690
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\member-search-index.zip = 1646934263690
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\overview-tree.html = 1646934263610
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\package-search-index.js = 1646934263658
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\package-search-index.zip = 1646934263686
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\script.js = 1646934263750
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\search.js = 1646934263758
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\stylesheet.css = 1646934263750
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\type-search-index.js = 1646934263686
+C:\Users\Alumno Tarde\Documents\NetBeansProjects\EscaletaTV_NF\target\site\apidocs\type-search-index.zip = 1646934263686
